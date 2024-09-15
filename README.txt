@@ -1,4 +1,4 @@
-# A portfolio showcasing my projects and work experience, by Natalie Cheng.
+**A portfolio showcasing my projects and work experience, by Natalie Cheng.**
 
 Template:
 Stellar by HTML5 UP
